@@ -1,0 +1,12 @@
+#!/bin/bash
+echo " Hi I am Saanvi"
+read -p "Enter your age: " age #"You are 14 years old."
+read -p "Enter your name within 5 seconds: " name #"Your name is Saanvi."
+read -n 1 -p "Press enter key to continue"
+read -t 5 -p "Enter your favorite animal: " animal #"Your favorite animal is a dog." 
+
+
+
+
+
+
